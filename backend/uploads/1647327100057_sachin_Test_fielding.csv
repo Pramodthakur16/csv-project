@@ -1,0 +1,369 @@
+Catch,Date,DismisalMade,Econ,Ground,Inns,MatchNumber,Mdns,Opposition,Overs,Pos,Result,Runs,Wkts,_id
+0,23-Nov-90,0,-,Chandigarh,2,Test # 1156,-,v Sri Lanka,DNB,-,Won,-,-,622316a42e07947895caedfe
+0,23-Nov-90,0,-,Chandigarh,3,Test # 1156,-,v Sri Lanka,DNB,-,Won,-,-,622316a42e07947895caedff
+0,29-Jan-93,0,-,Kolkata,2,Test # 1211,-,v England,DNB,-,Won,-,-,622316a42e07947895caee00
+1,29-Jan-93,1,-,Kolkata,3,Test # 1211,-,v England,DNB,-,Won,-,-,622316a42e07947895caee01
+0,11-Feb-93,0,2.5,Chennai,2,Test # 1213,1,v England,2,6,Won,5,0,622316a42e07947895caee02
+2,11-Feb-93,2,2,Chennai,3,Test # 1213,1,v England,2,6,Won,4,0,622316a42e07947895caee03
+0,19-Feb-93,0,-,Mumbai,1,Test # 1214,-,v England,DNB,-,Won,-,-,622316a42e07947895caee04
+1,19-Feb-93,1,-,Mumbai,3,Test # 1214,-,v England,DNB,-,Won,-,-,622316a42e07947895caee05
+0,13-Mar-93,0,2.2,Delhi,2,Test # 1218,1,v Zimbabwe,5,6,Won,11,0,622316a42e07947895caee06
+0,13-Mar-93,0,-,Delhi,3,Test # 1218,-,v Zimbabwe,DNB,-,Won,-,-,622316a42e07947895caee07
+0,27-Jul-93,0,-,Colombo (SSC),2,Test # 1228,-,v Sri Lanka,DNB,-,Won,-,-,622316a42e07947895caee08
+0,27-Jul-93,0,-,Colombo (SSC),4,Test # 1228,-,v Sri Lanka,DNB,-,Won,-,-,622316a42e07947895caee09
+0,18-Jan-94,0,-,Lucknow,2,Test # 1244,-,v Sri Lanka,DNB,-,Won,-,-,622316a42e07947895caee0a
+0,18-Jan-94,0,-,Lucknow,3,Test # 1244,-,v Sri Lanka,DNB,-,Won,-,-,622316a42e07947895caee0b
+1,26-Jan-94,1,-,Bengaluru,2,Test # 1245,-,v Sri Lanka,DNB,-,Won,-,-,622316a42e07947895caee0c
+1,26-Jan-94,1,-,Bengaluru,3,Test # 1245,-,v Sri Lanka,DNB,-,Won,-,-,622316a42e07947895caee0d
+0,08-Feb-94,0,-,Ahmedabad,1,Test # 1247,-,v Sri Lanka,DNB,-,Won,-,-,622316a42e07947895caee0e
+0,08-Feb-94,0,1.75,Ahmedabad,3,Test # 1247,1,v Sri Lanka,4,6,Won,7,0,622316a42e07947895caee0f
+2,18-Nov-94,2,-,Mumbai,2,Test # 1274,-,v West Indies,DNB,-,Won,-,-,622316a42e07947895caee10
+1,18-Nov-94,1,3,Mumbai,4,Test # 1274,0,v West Indies,3,6,Won,9,0,622316a42e07947895caee11
+3,18-Oct-95,3,-,Bengaluru,1,Test # 1308,-,v New Zealand,DNB,-,Won,-,-,622316a42e07947895caee12
+0,18-Oct-95,0,-,Bengaluru,3,Test # 1308,-,v New Zealand,DNB,-,Won,-,-,622316a42e07947895caee13
+0,10-Oct-96,0,-,Delhi,1,Test # 1335,-,v Australia,DNB,-,Won,-,-,622316a42e07947895caee14
+0,10-Oct-96,0,-,Delhi,3,Test # 1335,-,v Australia,DNB,-,Won,-,-,622316a42e07947895caee15
+0,20-Nov-96,0,-,Ahmedabad,2,Test # 1338,-,v South Africa,DNB,-,Won,-,-,622316a42e07947895caee16
+0,20-Nov-96,0,-,Ahmedabad,4,Test # 1338,-,v South Africa,DNB,-,Won,-,-,622316a42e07947895caee17
+0,08-Dec-96,0,-,Kanpur,2,Test # 1344,-,v South Africa,DNB,-,Won,-,-,622316a42e07947895caee18
+1,08-Dec-96,1,-,Kanpur,4,Test # 1344,-,v South Africa,DNB,-,Won,-,-,622316a42e07947895caee19
+1,06-Mar-98,1,-,Chennai,2,Test # 1405,-,v Australia,DNB,-,Won,-,-,622316a42e07947895caee1a
+0,06-Mar-98,0,-,Chennai,4,Test # 1405,-,v Australia,DNB,-,Won,-,-,622316a42e07947895caee1b
+0,18-Mar-98,0,3,Kolkata,1,Test # 1409,0,v Australia,2,4,Won,6,0,622316a42e07947895caee1c
+0,18-Mar-98,0,-,Kolkata,3,Test # 1409,-,v Australia,DNB,-,Won,-,-,622316a42e07947895caee1d
+0,04-Feb-99,0,-,Delhi,2,Test # 1443,-,v Pakistan,DNB,-,Won,-,-,622316a42e07947895caee1e
+0,04-Feb-99,0,-,Delhi,4,Test # 1443,-,v Pakistan,DNB,-,Won,-,-,622316a42e07947895caee1f
+1,22-Oct-99,1,-,Kanpur,1,Test # 1464,-,v New Zealand,DNB,-,Won,-,-,622316a42e07947895caee20
+1,22-Oct-99,1,-,Kanpur,3,Test # 1464,-,v New Zealand,DNB,-,Won,-,-,622316a42e07947895caee21
+0,10-Nov-00,0,3.4,Dhaka,1,Test # 1512,2,v Bangladesh,10,6,Won,34,1,622316a42e07947895caee22
+0,10-Nov-00,0,-,Dhaka,3,Test # 1512,-,v Bangladesh,DNB,-,Won,-,-,622316a42e07947895caee23
+0,18-Nov-00,0,2.68,Delhi,1,Test # 1515,5,v Zimbabwe,19,5,Won,51,1,622316a42e07947895caee24
+1,18-Nov-00,1,2.5,Delhi,3,Test # 1515,1,v Zimbabwe,4,4,Won,10,0,622316a42e07947895caee25
+0,11-Mar-01,0,3.5,Kolkata,1,Test # 1535,0,v Australia,2,6,Won,7,0,622316a42e07947895caee26
+0,11-Mar-01,0,2.81,Kolkata,4,Test # 1535,3,v Australia,11,5,Won,31,3,622316a42e07947895caee27
+0,18-Mar-01,0,2.18,Chennai,1,Test # 1539,1,v Australia,16,6,Won,35,0,622316a42e07947895caee28
+0,18-Mar-01,0,3.58,Chennai,3,Test # 1539,0,v Australia,12,5,Won,43,0,622316a42e07947895caee29
+0,07-Jun-01,0,-,Bulawayo,1,Test # 1548,-,v Zimbabwe,DNB,-,Won,-,-,622316a42e07947895caee2a
+0,07-Jun-01,0,3.83,Bulawayo,3,Test # 1548,0,v Zimbabwe,6,5,Won,23,0,622316a42e07947895caee2b
+0,03-Dec-01,0,1,Mohali,1,Test # 1574,3,v England,4,5,Won,4,0,622316a42e07947895caee2c
+0,03-Dec-01,0,-,Mohali,3,Test # 1574,-,v England,DNB,-,Won,-,-,622316a42e07947895caee2d
+0,21-Feb-02,0,-,Nagpur,1,Test # 1589,-,v Zimbabwe,DNB,-,Won,-,-,622316a42e07947895caee2e
+1,21-Feb-02,1,1.83,Nagpur,3,Test # 1589,2,v Zimbabwe,6,5,Won,11,0,622316a42e07947895caee2f
+1,28-Feb-02,1,6,Delhi,1,Test # 1591,0,v Zimbabwe,1,7,Won,6,0,622316a42e07947895caee30
+0,28-Feb-02,0,-,Delhi,3,Test # 1591,-,v Zimbabwe,DNB,-,Won,-,-,622316a42e07947895caee31
+1,19-Apr-02,1,-,Port of Spain,2,Test # 1599,-,v West Indies,DNB,-,Won,-,-,622316a42e07947895caee32
+0,19-Apr-02,0,6,Port of Spain,4,Test # 1599,0,v West Indies,1,5,Won,6,0,622316a42e07947895caee33
+0,22-Aug-02,0,-,Leeds,2,Test # 1613,-,v England,DNB,-,Won,-,-,622316a42e07947895caee34
+0,22-Aug-02,0,-,Leeds,3,Test # 1613,-,v England,DNB,-,Won,-,-,622316a42e07947895caee35
+0,09-Oct-02,0,-,Mumbai,2,Test # 1616,-,v West Indies,DNB,-,Won,-,-,622316a42e07947895caee36
+1,09-Oct-02,1,2,Mumbai,3,Test # 1616,0,v West Indies,1,6,Won,2,0,622316a42e07947895caee37
+1,17-Oct-02,1,-,Chennai,1,Test # 1618,-,v West Indies,DNB,-,Won,-,-,622316a42e07947895caee38
+0,17-Oct-02,0,-,Chennai,3,Test # 1618,-,v West Indies,DNB,-,Won,-,-,622316a42e07947895caee39
+0,12-Dec-03,0,3,Adelaide,1,Test # 1673,0,v Australia,1,6,Won,3,0,622316a42e07947895caee3a
+0,12-Dec-03,0,6,Adelaide,3,Test # 1673,0,v Australia,6,5,Won,36,2,622316a42e07947895caee3b
+1,28-Mar-04,1,2.57,Multan,2,Test # 1693,1,v Pakistan,14,6,Won,36,2,622316a42e07947895caee3c
+0,28-Mar-04,0,3.83,Multan,3,Test # 1693,2,v Pakistan,6,6,Won,23,0,622316a42e07947895caee3d
+0,13-Apr-04,0,-,Rawalpindi,1,Test # 1697,-,v Pakistan,DNB,-,Won,-,-,622316a42e07947895caee3e
+0,13-Apr-04,0,1,Rawalpindi,3,Test # 1697,0,v Pakistan,1,6,Won,1,1,622316a42e07947895caee3f
+0,03-Nov-04,0,-,Mumbai,2,Test # 1720,-,v Australia,DNB,-,Won,-,-,622316a42e07947895caee40
+1,03-Nov-04,1,-,Mumbai,4,Test # 1720,-,v Australia,DNB,-,Won,-,-,622316a42e07947895caee41
+0,28-Nov-04,0,2.66,Kolkata,1,Test # 1724,0,v South Africa,3,6,Won,8,0,622316a42e07947895caee42
+0,28-Nov-04,0,-,Kolkata,3,Test # 1724,-,v South Africa,DNB,-,Won,-,-,622316a42e07947895caee43
+1,10-Dec-04,1,-,Dhaka,1,Test # 1725,-,v Bangladesh,DNB,-,Won,-,-,622316a42e07947895caee44
+1,10-Dec-04,1,-,Dhaka,3,Test # 1725,-,v Bangladesh,DNB,-,Won,-,-,622316a42e07947895caee45
+0,17-Dec-04,0,6,Chittagong,2,Test # 1727,0,v Bangladesh,2,5,Won,12,0,622316a42e07947895caee46
+0,17-Dec-04,0,9,Chittagong,3,Test # 1727,0,v Bangladesh,3,5,Won,27,1,622316a42e07947895caee47
+2,16-Mar-05,2,-,Kolkata,2,Test # 1741,-,v Pakistan,DNB,-,Won,-,-,622316a42e07947895caee48
+0,16-Mar-05,0,-,Kolkata,4,Test # 1741,-,v Pakistan,DNB,-,Won,-,-,622316a42e07947895caee49
+0,10-Dec-05,0,3,Delhi,2,Test # 1776,0,v Sri Lanka,2,5,Won,6,0,622316a42e07947895caee4a
+0,10-Dec-05,0,-,Delhi,4,Test # 1776,-,v Sri Lanka,DNB,-,Won,-,-,622316a42e07947895caee4b
+0,18-Dec-05,0,-,Ahmedabad,2,Test # 1778,-,v Sri Lanka,DNB,-,Won,-,-,622316a42e07947895caee4c
+0,18-Dec-05,0,3.25,Ahmedabad,4,Test # 1778,0,v Sri Lanka,4,6,Won,13,0,622316a42e07947895caee4d
+0,09-Mar-06,0,-,Mohali,1,Test # 1788,-,v England,DNB,-,Won,-,-,622316a42e07947895caee4e
+0,09-Mar-06,0,-,Mohali,3,Test # 1788,-,v England,DNB,-,Won,-,-,622316a42e07947895caee4f
+0,15-Dec-06,0,-,Johannesburg,2,Test # 1823,-,v South Africa,DNB,-,Won,-,-,622316a42e07947895caee50
+1,15-Dec-06,1,-,Johannesburg,4,Test # 1823,-,v South Africa,DNB,-,Won,-,-,622316a42e07947895caee51
+0,25-May-07,0,-,Dhaka,2,Test # 1833,-,v Bangladesh,DNB,-,Won,-,-,622316a42e07947895caee52
+2,25-May-07,2,5.38,Dhaka,3,Test # 1833,1,v Bangladesh,6.3,6,Won,35,2,622316a42e07947895caee53
+2,27-Jul-07,2,4.5,Nottingham,1,Test # 1841,0,v England,2,6,Won,9,0,622316a42e07947895caee54
+0,27-Jul-07,0,4.14,Nottingham,3,Test # 1841,0,v England,7,6,Won,29,0,622316a42e07947895caee55
+0,22-Nov-07,0,2,Delhi,1,Test # 1849,0,v Pakistan,2,6,Won,4,0,622316a42e07947895caee56
+0,22-Nov-07,0,2,Delhi,3,Test # 1849,0,v Pakistan,2,6,Won,4,0,622316a42e07947895caee57
+0,16-Jan-08,0,-,Perth,2,Test # 1862,-,v Australia,DNB,-,Won,-,-,622316a42e07947895caee58
+0,16-Jan-08,0,-,Perth,4,Test # 1862,-,v Australia,DNB,-,Won,-,-,622316a42e07947895caee59
+0,31-Jul-08,0,-,Galle,2,Test # 1884,-,v Sri Lanka,DNB,-,Won,-,-,622316a42e07947895caee5a
+0,31-Jul-08,0,-,Galle,4,Test # 1884,-,v Sri Lanka,DNB,-,Won,-,-,622316a42e07947895caee5b
+0,17-Oct-08,0,-,Mohali,2,Test # 1889,-,v Australia,DNB,-,Won,-,-,622316a42e07947895caee5c
+1,17-Oct-08,1,-,Mohali,4,Test # 1889,-,v Australia,DNB,-,Won,-,-,622316a42e07947895caee5d
+0,06-Nov-08,0,6.5,Nagpur,2,Test # 1892,0,v Australia,2,6,Won,13,0,622316a42e07947895caee5e
+1,06-Nov-08,1,-,Nagpur,4,Test # 1892,-,v Australia,DNB,-,Won,-,-,622316a42e07947895caee5f
+0,11-Dec-08,0,-,Chennai,1,Test # 1898,-,v England,DNB,-,Won,-,-,622316a42e07947895caee60
+0,11-Dec-08,0,-,Chennai,3,Test # 1898,-,v England,DNB,-,Won,-,-,622316a42e07947895caee61
+0,18-Mar-09,0,-,Hamilton,1,Test # 1915,-,v New Zealand,DNB,-,Won,-,-,622316a42e07947895caee62
+1,18-Mar-09,1,-,Hamilton,3,Test # 1915,-,v New Zealand,DNB,-,Won,-,-,622316a42e07947895caee63
+1,24-Nov-09,1,-,Kanpur,2,Test # 1935,-,v Sri Lanka,DNB,-,Won,-,-,622316a42e07947895caee64
+0,24-Nov-09,0,6,Kanpur,3,Test # 1935,0,v Sri Lanka,1,6,Won,6,0,622316a42e07947895caee65
+0,02-Dec-09,0,-,Mumbai (BS),1,Test # 1937,-,v Sri Lanka,DNB,-,Won,-,-,622316a42e07947895caee66
+0,02-Dec-09,0,-,Mumbai (BS),3,Test # 1937,-,v Sri Lanka,DNB,-,Won,-,-,622316a42e07947895caee67
+0,17-Jan-10,0,-,Chittagong,2,Test # 1949,-,v Bangladesh,DNB,-,Won,-,-,622316a42e07947895caee68
+0,17-Jan-10,0,-,Chittagong,4,Test # 1949,-,v Bangladesh,DNB,-,Won,-,-,622316a42e07947895caee69
+0,24-Jan-10,0,-,Dhaka,1,Test # 1950,-,v Bangladesh,DNB,-,Won,-,-,622316a42e07947895caee6a
+0,24-Jan-10,0,-,Dhaka,3,Test # 1950,-,v Bangladesh,DNB,-,Won,-,-,622316a42e07947895caee6b
+0,14-Feb-10,0,-,Kolkata,1,Test # 1952,-,v South Africa,DNB,-,Won,-,-,622316a42e07947895caee6c
+0,14-Feb-10,0,0.5,Kolkata,3,Test # 1952,1,v South Africa,2,6,Won,1,0,622316a42e07947895caee6d
+0,03-Aug-10,0,-,Colombo (PSS),1,Test # 1968,-,v Sri Lanka,DNB,-,Won,-,-,622316a42e07947895caee6e
+1,03-Aug-10,1,-,Colombo (PSS),3,Test # 1968,-,v Sri Lanka,DNB,-,Won,-,-,622316a42e07947895caee6f
+0,01-Oct-10,0,-,Mohali,1,Test # 1972,-,v Australia,DNB,-,Won,-,-,622316a42e07947895caee70
+0,01-Oct-10,0,-,Mohali,3,Test # 1972,-,v Australia,DNB,-,Won,-,-,622316a42e07947895caee71
+0,09-Oct-10,0,-,Bengaluru,1,Test # 1973,-,v Australia,DNB,-,Won,-,-,622316a42e07947895caee72
+0,09-Oct-10,0,-,Bengaluru,3,Test # 1973,-,v Australia,DNB,-,Won,-,-,622316a42e07947895caee73
+0,20-Nov-10,0,-,Nagpur,1,Test # 1978,-,v New Zealand,DNB,-,Won,-,-,622316a42e07947895caee74
+0,20-Nov-10,0,-,Nagpur,3,Test # 1978,-,v New Zealand,DNB,-,Won,-,-,622316a42e07947895caee75
+0,26-Dec-10,0,-,Durban,2,Test # 1987,-,v South Africa,DNB,-,Won,-,-,622316a42e07947895caee76
+0,26-Dec-10,0,6,Durban,4,Test # 1987,0,v South Africa,1,5,Won,6,0,622316a42e07947895caee77
+0,06-Nov-11,0,-,Delhi,1,Test # 2015,-,v West Indies,DNB,-,Won,-,-,622316a42e07947895caee78
+0,06-Nov-11,0,-,Delhi,3,Test # 2015,-,v West Indies,DNB,-,Won,-,-,622316a42e07947895caee79
+0,14-Nov-11,0,-,Kolkata,2,Test # 2017,-,v West Indies,DNB,-,Won,-,-,622316a42e07947895caee7a
+0,14-Nov-11,0,-,Kolkata,3,Test # 2017,-,v West Indies,DNB,-,Won,-,-,622316a42e07947895caee7b
+0,23-Aug-12,0,6,Hyderabad (Deccan),2,Test # 2054,0,v New Zealand,1,7,Won,6,0,622316a42e07947895caee7c
+0,23-Aug-12,0,-,Hyderabad (Deccan),3,Test # 2054,-,v New Zealand,DNB,-,Won,-,-,622316a42e07947895caee7d
+0,31-Aug-12,0,-,Bengaluru,1,Test # 2055,-,v New Zealand,DNB,-,Won,-,-,622316a42e07947895caee7e
+0,31-Aug-12,0,-,Bengaluru,3,Test # 2055,-,v New Zealand,DNB,-,Won,-,-,622316a42e07947895caee7f
+1,15-Nov-12,1,-,Ahmedabad,2,Test # 2058,-,v England,DNB,-,Won,-,-,622316a42e07947895caee80
+0,15-Nov-12,0,8,Ahmedabad,3,Test # 2058,0,v England,1,6,Won,8,0,622316a42e07947895caee81
+0,22-Feb-13,0,-,Chennai,1,Test # 2074,-,v Australia,DNB,-,Won,-,-,622316a42e07947895caee82
+1,22-Feb-13,1,-,Chennai,3,Test # 2074,-,v Australia,DNB,-,Won,-,-,622316a42e07947895caee83
+0,02-Mar-13,0,-,Hyderabad (Deccan),1,Test # 2076,-,v Australia,DNB,-,Won,-,-,622316a42e07947895caee84
+0,02-Mar-13,0,-,Hyderabad (Deccan),3,Test # 2076,-,v Australia,DNB,-,Won,-,-,622316a42e07947895caee85
+0,14-Mar-13,0,-,Mohali,1,Test # 2081,-,v Australia,DNB,-,Won,-,-,622316a42e07947895caee86
+0,14-Mar-13,0,1,Mohali,3,Test # 2081,0,v Australia,2,6,Won,2,0,622316a42e07947895caee87
+0,22-Mar-13,0,-,Delhi,1,Test # 2085,-,v Australia,DNB,-,Won,-,-,622316a42e07947895caee88
+0,22-Mar-13,0,-,Delhi,3,Test # 2085,-,v Australia,DNB,-,Won,-,-,622316a42e07947895caee89
+0,06-Nov-13,0,2.5,Kolkata,1,Test # 2101,1,v West Indies,2,5,Won,5,1,622316a42e07947895caee8a
+0,06-Nov-13,0,6,Kolkata,3,Test # 2101,0,v West Indies,3,5,Won,18,0,622316a42e07947895caee8b
+0,14-Nov-13,0,-,Mumbai,1,Test # 2102,-,v West Indies,DNB,-,Won,-,-,622316a42e07947895caee8c
+0,14-Nov-13,0,4,Mumbai,3,Test # 2102,0,v West Indies,2,5,Won,8,0,622316a42e07947895caee8d
+0,02-Feb-90,0,-,Christchurch,1,Test # 1136,-,v New Zealand,DNB,-,Loss,-,-,622316a42e07947895caee8e
+0,02-Feb-90,0,-,Christchurch,4,Test # 1136,-,v New Zealand,DNB,-,Loss,-,-,622316a42e07947895caee8f
+0,26-Jul-90,0,-,"Lord's",1,Test # 1148,-,v England,DNB,-,Loss,-,-,622316a42e07947895caee90
+1,26-Jul-90,1,-,"Lord's",3,Test # 1148,-,v England,DNB,-,Loss,-,-,622316a42e07947895caee91
+0,29-Nov-91,0,8,Brisbane,2,Test # 1177,0,v Australia,1,5,Loss,8,0,622316a42e07947895caee92
+0,29-Nov-91,0,5,Brisbane,4,Test # 1177,0,v Australia,1,5,Loss,5,0,622316a42e07947895caee93
+2,26-Dec-91,2,4,Melbourne,2,Test # 1180,1,v Australia,4,5,Loss,16,0,622316a42e07947895caee94
+0,26-Dec-91,0,-,Melbourne,4,Test # 1180,-,v Australia,DNB,-,Loss,-,-,622316a42e07947895caee95
+0,25-Jan-92,0,2.5,Adelaide,1,Test # 1184,2,v Australia,4,4,Loss,10,2,622316a42e07947895caee96
+1,25-Jan-92,1,2.2,Adelaide,3,Test # 1184,5,v Australia,20,6,Loss,44,0,622316a42e07947895caee97
+0,01-Feb-92,0,1.8,Perth,1,Test # 1186,2,v Australia,5,4,Loss,9,0,622316a42e07947895caee98
+1,01-Feb-92,1,-,Perth,3,Test # 1186,-,v Australia,DNB,-,Loss,-,-,622316a42e07947895caee99
+0,26-Dec-92,0,0,Port Elizabeth,2,Test # 1206,1,v South Africa,1,5,Loss,0,0,622316a42e07947895caee9a
+0,26-Dec-92,0,3,Port Elizabeth,4,Test # 1206,0,v South Africa,3,5,Loss,9,1,622316a42e07947895caee9b
+0,10-Dec-94,0,-,Mohali,1,Test # 1278,-,v West Indies,DNB,-,Loss,-,-,622316a42e07947895caee9c
+0,10-Dec-94,0,10,Mohali,3,Test # 1278,0,v West Indies,1,6,Loss,10,0,622316a42e07947895caee9d
+0,06-Jun-96,0,-,Birmingham,2,Test # 1327,-,v England,DNB,-,Loss,-,-,622316a42e07947895caee9e
+0,06-Jun-96,0,-,Birmingham,4,Test # 1327,-,v England,DNB,-,Loss,-,-,622316a42e07947895caee9f
+0,27-Nov-96,0,-,Kolkata,1,Test # 1341,-,v South Africa,DNB,-,Loss,-,-,622316a42e07947895caeea0
+0,27-Nov-96,0,-,Kolkata,3,Test # 1341,-,v South Africa,DNB,-,Loss,-,-,622316a42e07947895caeea1
+0,26-Dec-96,0,0,Durban,1,Test # 1347,2,v South Africa,2.4,4,Loss,0,0,622316a42e07947895caeea2
+2,26-Dec-96,2,-,Durban,3,Test # 1347,-,v South Africa,DNB,-,Loss,-,-,622316a42e07947895caeea3
+1,02-Jan-97,1,-,Cape Town,1,Test # 1349,-,v South Africa,DNB,-,Loss,-,-,622316a42e07947895caeea4
+0,02-Jan-97,0,-,Cape Town,3,Test # 1349,-,v South Africa,DNB,-,Loss,-,-,622316a42e07947895caeea5
+3,27-Mar-97,3,-,Bridgetown,1,Test # 1363,-,v West Indies,DNB,-,Loss,-,-,622316a42e07947895caeea6
+0,27-Mar-97,0,-,Bridgetown,3,Test # 1363,-,v West Indies,DNB,-,Loss,-,-,622316a42e07947895caeea7
+1,25-Mar-98,1,-,Bengaluru,2,Test # 1413,-,v Australia,DNB,-,Loss,-,-,622316a42e07947895caeea8
+0,25-Mar-98,0,3.61,Bengaluru,4,Test # 1413,1,v Australia,11.2,5,Loss,41,1,622316a42e07947895caeea9
+0,07-Oct-98,0,-,Harare,1,Test # 1425,-,v Zimbabwe,DNB,-,Loss,-,-,622316a42e07947895caeeaa
+0,07-Oct-98,0,-,Harare,3,Test # 1425,-,v Zimbabwe,DNB,-,Loss,-,-,622316a42e07947895caeeab
+1,26-Dec-98,1,1.16,Wellington,2,Test # 1435,2,v New Zealand,6,6,Loss,7,2,622316a42e07947895caeeac
+0,26-Dec-98,0,2.66,Wellington,4,Test # 1435,0,v New Zealand,3,5,Loss,8,0,622316a42e07947895caeead
+0,28-Jan-99,0,3.33,Chennai,1,Test # 1442,0,v Pakistan,3,5,Loss,10,1,622316a42e07947895caeeae
+0,28-Jan-99,0,5,Chennai,3,Test # 1442,1,v Pakistan,7,5,Loss,35,2,622316a42e07947895caeeaf
+0,16-Feb-99,0,2.66,Kolkata,1,Test # 1444,1,v Pakistan,3,6,Loss,8,1,622316a42e07947895caeeb0
+0,16-Feb-99,0,5,Kolkata,3,Test # 1444,0,v Pakistan,2,7,Loss,10,0,622316a42e07947895caeeb1
+0,10-Dec-99,0,6,Adelaide,1,Test # 1476,0,v Australia,2,6,Loss,12,0,622316a42e07947895caeeb2
+0,10-Dec-99,0,-,Adelaide,3,Test # 1476,-,v Australia,DNB,-,Loss,-,-,622316a42e07947895caeeb3
+0,26-Dec-99,0,-,Melbourne,1,Test # 1479,-,v Australia,DNB,-,Loss,-,-,622316a42e07947895caeeb4
+0,26-Dec-99,0,-,Melbourne,3,Test # 1479,-,v Australia,DNB,-,Loss,-,-,622316a42e07947895caeeb5
+0,02-Jan-00,0,4.85,Sydney,2,Test # 1481,0,v Australia,7,7,Loss,34,1,622316a42e07947895caeeb6
+0,24-Feb-00,0,2,Mumbai,2,Test # 1484,1,v South Africa,5,5,Loss,10,3,622316a42e07947895caeeb7
+0,24-Feb-00,0,4,Mumbai,4,Test # 1484,0,v South Africa,1,5,Loss,4,0,622316a42e07947895caeeb8
+2,02-Mar-00,2,3.3,Bengaluru,2,Test # 1486,2,v South Africa,10,5,Loss,33,0,622316a42e07947895caeeb9
+1,27-Feb-01,1,5,Mumbai,2,Test # 1531,1,v Australia,7,5,Loss,35,0,622316a42e07947895caeeba
+0,27-Feb-01,0,-,Mumbai,4,Test # 1531,-,v Australia,DNB,-,Loss,-,-,622316a42e07947895caeebb
+0,15-Jun-01,0,4.75,Harare,2,Test # 1549,0,v Zimbabwe,4,5,Loss,19,1,622316a42e07947895caeebc
+0,15-Jun-01,0,7,Harare,4,Test # 1549,0,v Zimbabwe,1,5,Loss,7,0,622316a42e07947895caeebd
+0,03-Nov-01,0,3.85,Bloemfontein,2,Test # 1564,0,v South Africa,7,5,Loss,27,0,622316a42e07947895caeebe
+0,03-Nov-01,0,-,Bloemfontein,4,Test # 1564,-,v South Africa,DNB,-,Loss,-,-,622316a42e07947895caeebf
+1,02-May-02,1,7,Bridgetown,2,Test # 1601,0,v West Indies,1,6,Loss,7,0,622316a42e07947895caeec0
+0,02-May-02,0,1,Bridgetown,4,Test # 1601,0,v West Indies,1,1,Loss,1,0,622316a42e07947895caeec1
+0,18-May-02,0,-,Kingston,1,Test # 1604,-,v West Indies,DNB,-,Loss,-,-,622316a42e07947895caeec2
+0,18-May-02,0,-,Kingston,3,Test # 1604,-,v West Indies,DNB,-,Loss,-,-,622316a42e07947895caeec3
+0,25-Jul-02,0,-,"Lord's",1,Test # 1610,-,v England,DNB,-,Loss,-,-,622316a42e07947895caeec4
+1,25-Jul-02,1,7,"Lord's",3,Test # 1610,0,v England,2,5,Loss,14,0,622316a42e07947895caeec5
+0,12-Dec-02,0,-,Wellington,2,Test # 1631,-,v New Zealand,DNB,-,Loss,-,-,622316a42e07947895caeec6
+0,12-Dec-02,0,-,Wellington,4,Test # 1631,-,v New Zealand,DNB,-,Loss,-,-,622316a42e07947895caeec7
+1,19-Dec-02,1,-,Hamilton,2,Test # 1633,-,v New Zealand,DNB,-,Loss,-,-,622316a42e07947895caeec8
+0,19-Dec-02,0,-,Hamilton,4,Test # 1633,-,v New Zealand,DNB,-,Loss,-,-,622316a42e07947895caeec9
+2,26-Dec-03,2,4.38,Melbourne,2,Test # 1678,0,v Australia,13,5,Loss,57,1,622316a42e07947895caeeca
+0,26-Dec-03,0,-,Melbourne,4,Test # 1678,-,v Australia,DNB,-,Loss,-,-,622316a42e07947895caeecb
+0,05-Apr-04,0,3.16,Lahore,2,Test # 1695,1,v Pakistan,12,5,Loss,38,1,622316a42e07947895caeecc
+0,05-Apr-04,0,-,Lahore,4,Test # 1695,-,v Pakistan,DNB,-,Loss,-,-,622316a42e07947895caeecd
+0,26-Oct-04,0,4.83,Nagpur,1,Test # 1718,1,v Australia,6,5,Loss,29,0,622316a42e07947895caeece
+0,26-Oct-04,0,1.5,Nagpur,3,Test # 1718,1,v Australia,8,4,Loss,12,0,622316a42e07947895caeecf
+0,24-Mar-05,0,4.66,Bengaluru,1,Test # 1743,0,v Pakistan,3,5,Loss,14,0,622316a42e07947895caeed0
+0,24-Mar-05,0,4.13,Bengaluru,3,Test # 1743,1,v Pakistan,15,4,Loss,62,1,622316a42e07947895caeed1
+0,29-Jan-06,0,-,Karachi,1,Test # 1783,-,v Pakistan,DNB,-,Loss,-,-,622316a42e07947895caeed2
+3,29-Jan-06,3,4.44,Karachi,3,Test # 1783,0,v Pakistan,9,7,Loss,40,0,622316a42e07947895caeed3
+1,18-Mar-06,1,-,Mumbai,1,Test # 1791,-,v England,DNB,-,Loss,-,-,622316a42e07947895caeed4
+0,18-Mar-06,0,-,Mumbai,3,Test # 1791,-,v England,DNB,-,Loss,-,-,622316a42e07947895caeed5
+2,26-Dec-06,2,-,Durban,1,Test # 1825,-,v South Africa,DNB,-,Loss,-,-,622316a42e07947895caeed6
+0,26-Dec-06,0,-,Durban,3,Test # 1825,-,v South Africa,DNB,-,Loss,-,-,622316a42e07947895caeed7
+0,02-Jan-07,0,3,Cape Town,2,Test # 1827,2,v South Africa,10,6,Loss,30,1,622316a42e07947895caeed8
+0,02-Jan-07,0,0.94,Cape Town,4,Test # 1827,2,v South Africa,3.1,6,Loss,3,0,622316a42e07947895caeed9
+1,26-Dec-07,1,2,Melbourne,1,Test # 1855,0,v Australia,1,6,Loss,2,0,622316a42e07947895caeeda
+1,26-Dec-07,1,2,Melbourne,3,Test # 1855,0,v Australia,1,5,Loss,2,0,622316a42e07947895caeedb
+3,02-Jan-08,3,2.8,Sydney,1,Test # 1857,0,v Australia,5,6,Loss,14,0,622316a42e07947895caeedc
+0,02-Jan-08,0,3,Sydney,3,Test # 1857,0,v Australia,2,5,Loss,6,0,622316a42e07947895caeedd
+0,23-Jul-08,0,-,Colombo (SSC),1,Test # 1882,-,v Sri Lanka,DNB,-,Loss,-,-,622316a42e07947895caeede
+0,08-Aug-08,0,-,Colombo (PSS),2,Test # 1886,-,v Sri Lanka,DNB,-,Loss,-,-,622316a42e07947895caeedf
+0,08-Aug-08,0,-,Colombo (PSS),4,Test # 1886,-,v Sri Lanka,DNB,-,Loss,-,-,622316a42e07947895caeee0
+0,06-Feb-10,0,-,Nagpur,1,Test # 1951,-,v South Africa,DNB,-,Loss,-,-,622316a42e07947895caeee1
+1,18-Jul-10,1,-,Galle,1,Test # 1964,-,v Sri Lanka,DNB,-,Loss,-,-,622316a42e07947895caeee2
+0,18-Jul-10,0,-,Galle,4,Test # 1964,-,v Sri Lanka,DNB,-,Loss,-,-,622316a42e07947895caeee3
+0,16-Dec-10,0,5.1,Centurion,2,Test # 1985,1,v South Africa,10,6,Loss,51,0,622316a42e07947895caeee4
+0,21-Jul-11,0,-,"Lord's",1,Test # 2000,-,v England,DNB,-,Loss,-,-,622316a42e07947895caeee5
+0,21-Jul-11,0,-,"Lord's",3,Test # 2000,-,v England,DNB,-,Loss,-,-,622316a42e07947895caeee6
+1,29-Jul-11,1,-,Nottingham,1,Test # 2001,-,v England,DNB,-,Loss,-,-,622316a42e07947895caeee7
+0,29-Jul-11,0,-,Nottingham,3,Test # 2001,-,v England,DNB,-,Loss,-,-,622316a42e07947895caeee8
+1,10-Aug-11,1,4.25,Birmingham,2,Test # 2003,0,v England,4,6,Loss,17,0,622316a42e07947895caeee9
+0,18-Aug-11,0,5.5,The Oval,1,Test # 2004,0,v England,2,6,Loss,11,0,622316a42e07947895caeeea
+0,26-Dec-11,0,-,Melbourne,1,Test # 2025,-,v Australia,DNB,-,Loss,-,-,622316a42e07947895caeeeb
+0,26-Dec-11,0,-,Melbourne,3,Test # 2025,-,v Australia,DNB,-,Loss,-,-,622316a42e07947895caeeec
+2,03-Jan-12,2,-,Sydney,2,Test # 2027,-,v Australia,DNB,-,Loss,-,-,622316a42e07947895caeeed
+0,13-Jan-12,0,-,Perth,2,Test # 2029,-,v Australia,DNB,-,Loss,-,-,622316a42e07947895caeeee
+1,24-Jan-12,1,-,Adelaide,1,Test # 2031,-,v Australia,DNB,-,Loss,-,-,622316a42e07947895caeeef
+0,24-Jan-12,0,-,Adelaide,3,Test # 2031,-,v Australia,DNB,-,Loss,-,-,622316a42e07947895caeef0
+0,23-Nov-12,0,-,Mumbai,2,Test # 2062,-,v England,DNB,-,Loss,-,-,622316a42e07947895caeef1
+0,23-Nov-12,0,-,Mumbai,4,Test # 2062,-,v England,DNB,-,Loss,-,-,622316a42e07947895caeef2
+0,05-Dec-12,0,-,Kolkata,2,Test # 2065,-,v England,DNB,-,Loss,-,-,622316a42e07947895caeef3
+0,05-Dec-12,0,-,Kolkata,4,Test # 2065,-,v England,DNB,-,Loss,-,-,622316a42e07947895caeef4
+0,15-Nov-89,0,10,Karachi,1,Test # 1127,0,v Pakistan,1,7,Drawn,10,0,622316a42e07947895caeef5
+0,15-Nov-89,0,3.75,Karachi,3,Test # 1127,0,v Pakistan,4,6,Drawn,15,0,622316a42e07947895caeef6
+1,23-Nov-89,1,-,Faisalabad,2,Test # 1128,-,v Pakistan,DNB,-,Drawn,-,-,622316a42e07947895caeef7
+0,01-Dec-89,0,-,Lahore,2,Test # 1130,-,v Pakistan,DNB,-,Drawn,-,-,622316a42e07947895caeef8
+0,09-Dec-89,0,-,Sialkot,2,Test # 1132,-,v Pakistan,DNB,-,Drawn,-,-,622316a42e07947895caeef9
+0,09-Feb-90,0,-,Napier,2,Test # 1138,-,v New Zealand,DNB,-,Drawn,-,-,622316a42e07947895caeefa
+1,22-Feb-90,1,-,Auckland,1,Test # 1139,-,v New Zealand,DNB,-,Drawn,-,-,622316a42e07947895caeefb
+0,22-Feb-90,0,-,Auckland,3,Test # 1139,-,v New Zealand,DNB,-,Drawn,-,-,622316a42e07947895caeefc
+2,09-Aug-90,2,-,Manchester,1,Test # 1149,-,v England,DNB,-,Drawn,-,-,622316a42e07947895caeefd
+0,09-Aug-90,0,-,Manchester,3,Test # 1149,-,v England,DNB,-,Drawn,-,-,622316a42e07947895caeefe
+0,23-Aug-90,0,-,The Oval,2,Test # 1150,-,v England,DNB,-,Drawn,-,-,622316a42e07947895caeeff
+0,23-Aug-90,0,-,The Oval,3,Test # 1150,-,v England,DNB,-,Drawn,-,-,622316a42e07947895caef00
+1,02-Jan-92,1,-,Sydney,1,Test # 1181,-,v Australia,DNB,-,Drawn,-,-,622316a42e07947895caef01
+0,02-Jan-92,0,2,Sydney,3,Test # 1181,0,v Australia,1,5,Drawn,2,1,622316a42e07947895caef02
+0,18-Oct-92,0,-,Harare,1,Test # 1197,-,v Zimbabwe,DNB,-,Drawn,-,-,622316a42e07947895caef03
+0,18-Oct-92,0,2,Harare,3,Test # 1197,3,v Zimbabwe,4,7,Drawn,8,0,622316a42e07947895caef04
+2,13-Nov-92,2,-,Durban,1,Test # 1200,-,v South Africa,DNB,-,Drawn,-,-,622316a42e07947895caef05
+0,13-Nov-92,0,1.5,Durban,3,Test # 1200,1,v South Africa,2,6,Drawn,3,0,622316a42e07947895caef06
+0,26-Nov-92,0,-,Johannesburg,1,Test # 1201,-,v South Africa,DNB,-,Drawn,-,-,622316a42e07947895caef07
+1,26-Nov-92,1,2,Johannesburg,3,Test # 1201,0,v South Africa,1,5,Drawn,2,0,622316a42e07947895caef08
+1,02-Jan-93,1,-,Cape Town,1,Test # 1209,-,v South Africa,DNB,-,Drawn,-,-,622316a42e07947895caef09
+0,02-Jan-93,0,-,Cape Town,3,Test # 1209,-,v South Africa,DNB,-,Drawn,-,-,622316a42e07947895caef0a
+0,17-Jul-93,0,-,Kandy,1,Test # 1226,-,v Sri Lanka,DNB,-,Drawn,-,-,622316a42e07947895caef0b
+2,04-Aug-93,2,1.33,Colombo (PSS),1,Test # 1229,0,v Sri Lanka,3,4,Drawn,4,0,622316a42e07947895caef0c
+1,04-Aug-93,1,-,Colombo (PSS),3,Test # 1229,-,v Sri Lanka,DNB,-,Drawn,-,-,622316a42e07947895caef0d
+0,19-Mar-94,0,-,Hamilton,1,Test # 1255,-,v New Zealand,DNB,-,Drawn,-,-,622316a42e07947895caef0e
+0,19-Mar-94,0,-,Hamilton,3,Test # 1255,-,v New Zealand,DNB,-,Drawn,-,-,622316a42e07947895caef0f
+0,01-Dec-94,0,-,Nagpur,2,Test # 1277,-,v West Indies,DNB,-,Drawn,-,-,622316a42e07947895caef10
+2,01-Dec-94,2,-,Nagpur,4,Test # 1277,-,v West Indies,DNB,-,Drawn,-,-,622316a42e07947895caef11
+-,25-Oct-95,TDNF,-,Chennai,-,Test # 1309,-,v New Zealand,TDNB,-,Drawn,-,-,622316a42e07947895caef12
+0,08-Nov-95,0,-,Cuttack,2,Test # 1310,-,v New Zealand,DNB,-,Drawn,-,-,622316a42e07947895caef13
+2,20-Jun-96,2,0.5,"Lord's",1,Test # 1328,1,v England,2,6,Drawn,1,0,622316a42e07947895caef14
+0,20-Jun-96,0,-,"Lord's",3,Test # 1328,-,v England,DNB,-,Drawn,-,-,622316a42e07947895caef15
+0,04-Jul-96,0,4,Nottingham,2,Test # 1329,0,v England,7,6,Drawn,28,0,622316a42e07947895caef16
+0,16-Jan-97,0,-,Johannesburg,2,Test # 1350,-,v South Africa,DNB,-,Drawn,-,-,622316a42e07947895caef17
+0,16-Jan-97,0,9,Johannesburg,4,Test # 1350,0,v South Africa,2,6,Drawn,18,0,622316a42e07947895caef18
+0,06-Mar-97,0,-,Kingston,1,Test # 1357,-,v West Indies,DNB,-,Drawn,-,-,622316a42e07947895caef19
+1,06-Mar-97,1,4.5,Kingston,3,Test # 1357,0,v West Indies,2,6,Drawn,9,0,622316a42e07947895caef1a
+0,14-Mar-97,0,-,Port of Spain,1,Test # 1361,-,v West Indies,DNB,-,Drawn,-,-,622316a42e07947895caef1b
+0,14-Mar-97,0,-,Port of Spain,3,Test # 1361,-,v West Indies,DNB,-,Drawn,-,-,622316a42e07947895caef1c
+1,04-Apr-97,1,-,"St John's",1,Test # 1364,-,v West Indies,DNB,-,Drawn,-,-,622316a42e07947895caef1d
+0,17-Apr-97,0,-,Georgetown,2,Test # 1365,-,v West Indies,DNB,-,Drawn,-,-,622316a42e07947895caef1e
+0,02-Aug-97,0,1,Colombo (RPS),2,Test # 1374,1,v Sri Lanka,2,7,Drawn,2,0,622316a42e07947895caef1f
+1,09-Aug-97,1,-,Colombo (SSC),1,Test # 1376,-,v Sri Lanka,DNB,-,Drawn,-,-,622316a42e07947895caef20
+0,09-Aug-97,0,-,Colombo (SSC),3,Test # 1376,-,v Sri Lanka,DNB,-,Drawn,-,-,622316a42e07947895caef21
+0,19-Nov-97,0,-,Mohali,1,Test # 1385,-,v Sri Lanka,DNB,-,Drawn,-,-,622316a42e07947895caef22
+1,19-Nov-97,1,-,Mohali,3,Test # 1385,-,v Sri Lanka,DNB,-,Drawn,-,-,622316a42e07947895caef23
+-,26-Nov-97,TDNF,-,Nagpur,-,Test # 1387,-,v Sri Lanka,TDNB,-,Drawn,-,-,622316a42e07947895caef24
+0,03-Dec-97,0,-,Mumbai,2,Test # 1390,-,v Sri Lanka,DNB,-,Drawn,-,-,622316a42e07947895caef25
+1,03-Dec-97,1,0,Mumbai,4,Test # 1390,2,v Sri Lanka,2,6,Drawn,0,0,622316a42e07947895caef26
+0,02-Jan-99,0,7.66,Hamilton,1,Test # 1438,0,v New Zealand,3,6,Drawn,23,0,622316a42e07947895caef27
+0,02-Jan-99,0,4.28,Hamilton,3,Test # 1438,0,v New Zealand,7,5,Drawn,30,2,622316a42e07947895caef28
+0,24-Feb-99,0,3.2,Colombo (SSC),2,Test # 1445,0,v Sri Lanka,5,5,Drawn,16,0,622316a42e07947895caef29
+0,10-Oct-99,0,-,Mohali,2,Test # 1462,-,v New Zealand,DNB,-,Drawn,-,-,622316a42e07947895caef2a
+0,10-Oct-99,0,1.83,Mohali,4,Test # 1462,2,v New Zealand,6,6,Drawn,11,0,622316a42e07947895caef2b
+0,29-Oct-99,0,-,Ahmedabad,2,Test # 1465,-,v New Zealand,DNB,-,Drawn,-,-,622316a42e07947895caef2c
+0,29-Oct-99,0,3.8,Ahmedabad,4,Test # 1465,2,v New Zealand,5,5,Drawn,19,0,622316a42e07947895caef2d
+0,25-Nov-00,0,7,Nagpur,2,Test # 1517,0,v Zimbabwe,1,6,Drawn,7,0,622316a42e07947895caef2e
+2,25-Nov-00,2,1.72,Nagpur,3,Test # 1517,3,v Zimbabwe,11,5,Drawn,19,0,622316a42e07947895caef2f
+0,16-Nov-01,0,5.5,Port Elizabeth,1,Test # 1569,0,v South Africa,4,6,Drawn,22,1,622316a42e07947895caef30
+0,16-Nov-01,0,2.5,Port Elizabeth,3,Test # 1569,0,v South Africa,4,4,Drawn,10,0,622316a42e07947895caef31
+1,11-Dec-01,1,2.7,Ahmedabad,1,Test # 1575,0,v England,10,5,Drawn,27,1,622316a42e07947895caef32
+2,11-Dec-01,2,-,Ahmedabad,3,Test # 1575,-,v England,DNB,-,Drawn,-,-,622316a42e07947895caef33
+1,19-Dec-01,1,6.33,Bengaluru,1,Test # 1578,0,v England,3,6,Drawn,19,0,622316a42e07947895caef34
+0,19-Dec-01,0,-,Bengaluru,3,Test # 1578,-,v England,DNB,-,Drawn,-,-,622316a42e07947895caef35
+0,11-Apr-02,0,6,Georgetown,1,Test # 1598,0,v West Indies,3,7,Drawn,18,0,622316a42e07947895caef36
+0,10-May-02,0,3.14,"St John's",2,Test # 1602,4,v West Indies,34,5,Drawn,107,2,622316a42e07947895caef37
+0,08-Aug-02,0,2.5,Nottingham,2,Test # 1612,0,v England,6,6,Drawn,15,0,622316a42e07947895caef38
+0,05-Sep-02,0,2,The Oval,1,Test # 1614,0,v England,2,7,Drawn,4,0,622316a42e07947895caef39
+0,05-Sep-02,0,-,The Oval,3,Test # 1614,-,v England,DNB,-,Drawn,-,-,622316a42e07947895caef3a
+0,30-Oct-02,0,4.71,Kolkata,2,Test # 1622,0,v West Indies,7,6,Drawn,33,0,622316a42e07947895caef3b
+0,08-Oct-03,0,1.66,Ahmedabad,2,Test # 1660,2,v New Zealand,3,6,Drawn,5,0,622316a42e07947895caef3c
+0,08-Oct-03,0,5.71,Ahmedabad,4,Test # 1660,0,v New Zealand,7,5,Drawn,40,0,622316a42e07947895caef3d
+0,16-Oct-03,0,2.5,Mohali,1,Test # 1662,3,v New Zealand,22,3,Drawn,55,1,622316a42e07947895caef3e
+0,04-Dec-03,0,-,Brisbane,1,Test # 1671,-,v Australia,DNB,-,Drawn,-,-,622316a42e07947895caef3f
+0,04-Dec-03,0,4.5,Brisbane,3,Test # 1671,0,v Australia,2,5,Drawn,9,0,622316a42e07947895caef40
+0,02-Jan-04,0,-,Sydney,2,Test # 1680,-,v Australia,DNB,-,Drawn,-,-,622316a42e07947895caef41
+1,02-Jan-04,1,6,Sydney,4,Test # 1680,0,v Australia,6,5,Drawn,36,0,622316a42e07947895caef42
+0,20-Nov-04,0,4,Kanpur,1,Test # 1722,0,v South Africa,9,6,Drawn,36,0,622316a42e07947895caef43
+0,20-Nov-04,0,3.6,Kanpur,3,Test # 1722,0,v South Africa,5,5,Drawn,18,0,622316a42e07947895caef44
+0,08-Mar-05,0,-,Mohali,1,Test # 1738,-,v Pakistan,DNB,-,Drawn,-,-,622316a42e07947895caef45
+0,08-Mar-05,0,3.75,Mohali,3,Test # 1738,0,v Pakistan,8,5,Drawn,30,0,622316a42e07947895caef46
+0,02-Dec-05,0,-,Chennai,2,Test # 1775,-,v Sri Lanka,DNB,-,Drawn,-,-,622316a42e07947895caef47
+0,13-Jan-06,0,8,Lahore,1,Test # 1781,0,v Pakistan,2,7,Drawn,16,0,622316a42e07947895caef48
+0,21-Jan-06,0,-,Faisalabad,1,Test # 1782,-,v Pakistan,DNB,-,Drawn,-,-,622316a42e07947895caef49
+1,21-Jan-06,1,-,Faisalabad,3,Test # 1782,-,v Pakistan,DNB,-,Drawn,-,-,622316a42e07947895caef4a
+0,01-Mar-06,0,5.5,Nagpur,1,Test # 1785,0,v England,2,5,Drawn,11,0,622316a42e07947895caef4b
+0,01-Mar-06,0,-,Nagpur,3,Test # 1785,-,v England,DNB,-,Drawn,-,-,622316a42e07947895caef4c
+2,18-May-07,2,3.75,Chittagong,2,Test # 1832,0,v Bangladesh,4,5,Drawn,15,1,622316a42e07947895caef4d
+0,18-May-07,0,2.33,Chittagong,4,Test # 1832,0,v Bangladesh,3,5,Drawn,7,0,622316a42e07947895caef4e
+0,19-Jul-07,0,4,"Lord's",1,Test # 1840,0,v England,2,6,Drawn,8,0,622316a42e07947895caef4f
+1,19-Jul-07,1,2,"Lord's",3,Test # 1840,0,v England,1,5,Drawn,2,0,622316a42e07947895caef50
+1,09-Aug-07,1,3.71,The Oval,2,Test # 1842,0,v England,7,6,Drawn,26,1,622316a42e07947895caef51
+0,09-Aug-07,0,4.1,The Oval,4,Test # 1842,0,v England,19,5,Drawn,78,0,622316a42e07947895caef52
+0,30-Nov-07,0,4.57,Kolkata,2,Test # 1850,1,v Pakistan,7,5,Drawn,32,0,622316a42e07947895caef53
+0,30-Nov-07,0,2.33,Kolkata,4,Test # 1850,0,v Pakistan,3,5,Drawn,7,0,622316a42e07947895caef54
+0,24-Jan-08,0,6,Adelaide,2,Test # 1863,0,v Australia,1,7,Drawn,6,0,622316a42e07947895caef55
+0,26-Mar-08,0,-,Chennai,1,Test # 1870,-,v South Africa,DNB,-,Drawn,-,-,622316a42e07947895caef56
+0,26-Mar-08,0,-,Chennai,3,Test # 1870,-,v South Africa,DNB,-,Drawn,-,-,622316a42e07947895caef57
+0,09-Oct-08,0,-,Bengaluru,1,Test # 1887,-,v Australia,DNB,-,Drawn,-,-,622316a42e07947895caef58
+0,09-Oct-08,0,-,Bengaluru,3,Test # 1887,-,v Australia,DNB,-,Drawn,-,-,622316a42e07947895caef59
+0,29-Oct-08,0,2,Delhi,2,Test # 1891,0,v Australia,1,6,Drawn,2,0,622316a42e07947895caef5a
+0,29-Oct-08,0,-,Delhi,4,Test # 1891,-,v Australia,DNB,-,Drawn,-,-,622316a42e07947895caef5b
+0,19-Dec-08,0,-,Mohali,2,Test # 1901,-,v England,DNB,-,Drawn,-,-,622316a42e07947895caef5c
+0,19-Dec-08,0,-,Mohali,4,Test # 1901,-,v England,DNB,-,Drawn,-,-,622316a42e07947895caef5d
+1,26-Mar-09,1,-,Napier,1,Test # 1917,-,v New Zealand,DNB,-,Drawn,-,-,622316a42e07947895caef5e
+0,03-Apr-09,0,-,Wellington,2,Test # 1918,-,v New Zealand,DNB,-,Drawn,-,-,622316a42e07947895caef5f
+0,03-Apr-09,0,5,Wellington,4,Test # 1918,0,v New Zealand,9,7,Drawn,45,2,622316a42e07947895caef60
+1,16-Nov-09,1,2.85,Ahmedabad,2,Test # 1933,0,v Sri Lanka,7,6,Drawn,20,0,622316a42e07947895caef61
+0,26-Jul-10,0,-,Colombo (SSC),1,Test # 1966,-,v Sri Lanka,DNB,-,Drawn,-,-,622316a42e07947895caef62
+0,26-Jul-10,0,-,Colombo (SSC),3,Test # 1966,-,v Sri Lanka,DNB,-,Drawn,-,-,622316a42e07947895caef63
+0,04-Nov-10,0,8,Ahmedabad,2,Test # 1974,0,v New Zealand,2,7,Drawn,16,0,622316a42e07947895caef64
+0,04-Nov-10,0,-,Ahmedabad,4,Test # 1974,-,v New Zealand,DNB,-,Drawn,-,-,622316a42e07947895caef65
+0,12-Nov-10,0,-,Hyderabad (Deccan),1,Test # 1975,-,v New Zealand,DNB,-,Drawn,-,-,622316a42e07947895caef66
+0,12-Nov-10,0,3.5,Hyderabad (Deccan),3,Test # 1975,0,v New Zealand,2,5,Drawn,7,0,622316a42e07947895caef67
+0,02-Jan-11,0,-,Cape Town,1,Test # 1988,-,v South Africa,DNB,-,Drawn,-,-,622316a42e07947895caef68
+0,02-Jan-11,0,4.5,Cape Town,3,Test # 1988,0,v South Africa,2,5,Drawn,9,1,622316a42e07947895caef69
+0,22-Nov-11,0,4,Mumbai,1,Test # 2019,0,v West Indies,6,7,Drawn,24,0,622316a42e07947895caef6a
+2,22-Nov-11,2,5,Mumbai,3,Test # 2019,0,v West Indies,1,6,Drawn,5,0,622316a42e07947895caef6b
+0,13-Dec-12,0,-,Nagpur,1,Test # 2066,-,v England,DNB,-,Drawn,-,-,622316a42e07947895caef6c
+0,13-Dec-12,0,-,Nagpur,3,Test # 2066,-,v England,DNB,-,Drawn,-,-,622316a42e07947895caef6d
